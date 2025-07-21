@@ -1,4 +1,4 @@
-Akankshsuryawanshi-demo
+Akankshsuryawanshi-Demo
 <br>
 This is my first project 
 <br>
